@@ -6,11 +6,15 @@ FIA Formula 1 Championship Statistics REST API
 
 # Video Guide Demo
 
-Link: https://youtu.be/9jVZpLr4qZw
-
-[![Everything Is AWESOME](https://yt-embed.live/embed?v=9jVZpLr4qZw)](https://youtu.be/9jVZpLr4qZw "Django React TODO App")
+https://user-images.githubusercontent.com/46309727/221355908-87b6c0bb-63e2-46bd-ba0c-f466517044ab.mp4
 
 ## Screenshots
+<p float="center">
+  <img src="https://github.com/nikhilsurfingaus/f1-chrome-extension/blob/master/assets/demo1.jpg"  />
+</p>
+<p float="center">
+  <img src="https://github.com/nikhilsurfingaus/f1-chrome-extension/blob/master/assets/demo2.jpg" />
+</p>
 
 ## Copyright
 
