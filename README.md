@@ -3,6 +3,13 @@
 Google Chrome Extension Which Displays Current F1 Drivers Standings using the 
 FIA Formula 1 Championship Statistics REST API 
 
+# Installation
+Method 1:
+- Download the F1 Chrome Extension.crx and unload pack into Chrome Extensions in Developer Mode
+
+Method 2:
+- Download this entire project here -> [DOWNLOAD](https://github.com/nikhilsurfingaus/f1-chrome-extension/archive/refs/heads/master.zip)
+- Repeat Method 1
 
 # Video Guide Demo
 
