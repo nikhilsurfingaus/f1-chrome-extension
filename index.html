@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>F1 Driver Standings</title>
+    <script src="script.js"></script>
+    <style>
+        body {
+            background-color: darkred;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        #refresh {
+            background-color: white;
+            color: black;
+            font-weight: bold;
+            font-size: 0.75rem;
+            border: none;
+            border-radius: 10px;
+            padding: 5px 10px;
+            transition: background-color 0.3s ease-in-out;
+        }
+        
+        #refresh:hover {
+            background-color: lightgray;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Quick F1 Drivers Standings</h3>
+    <button id="refresh">Generate Standings</button>
+    <div id="content"></div>
+</body>
+
+</html>
