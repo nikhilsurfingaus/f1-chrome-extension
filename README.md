@@ -1,4 +1,4 @@
-# F1 Drivers Standings Chrome Extension
+# F1 Drivers Standings Google Chrome Extension
 
 Google Chrome Extension Which Displays Current F1 Drivers Standings using the 
 FIA Formula 1 Championship Statistics REST API 
